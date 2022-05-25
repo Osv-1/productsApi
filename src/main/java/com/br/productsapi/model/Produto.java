@@ -1,4 +1,4 @@
-package com.br.productsapi.models;
+package com.br.productsapi.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
